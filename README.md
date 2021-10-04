@@ -1,1 +1,1 @@
-A common web component useful for showing extra content to simplify a webpage and make it less overwhelming
+A common web component that pops up extra content to show alerts or extra content
